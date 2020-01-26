@@ -2,7 +2,7 @@ package com.techprimers.lazy;
 
 import org.springframework.stereotype.Service;
 
-//@Lazy
+
 @Service
 public class LazyService {
 
@@ -11,6 +11,6 @@ public class LazyService {
     }
 
     public String hello() {
-        return "hello youtube";
+        return "Hello Vishal";
     }
 }
