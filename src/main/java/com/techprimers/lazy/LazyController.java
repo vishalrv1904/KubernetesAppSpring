@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/hello")
 public class LazyController {
 
-//    @Lazy
+
     @Autowired
     LazyService lazyService;
 
