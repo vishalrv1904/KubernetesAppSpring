@@ -1,7 +1,7 @@
 # Spring Boot Lazy Initialization example
 
 
-# run 
+# Run 
 
 ./mvnw package 
 
